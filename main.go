@@ -3,6 +3,10 @@ package main
 
 import (
 	"fmt"
+
+	"github.com/ekusiadadus/go-interpreter-project/evaluate"
+	"github.com/ekusiadadus/go-interpreter-project/lexer"
+	"github.com/ekusiadadus/go-interpreter-project/parser"
 )
 
 func main() {
